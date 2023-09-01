@@ -1,0 +1,54 @@
+{
+  "students": [
+    {
+      "userName": "ahmed",
+      "email": "ahmed@gmail.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "userName": "ahmed",
+      "email": "ahmed1@gmail.com",
+      "password": "123",
+      "id": 2
+    }
+  ],
+  "doctor": [],
+  "subjects": [
+    {
+      "name": "ahmed",
+      "questions": [
+        {
+          "question": "alhywana",
+          "answer1": "s",
+          "answer2": "a",
+          "answer3": "sa",
+          "answer4": "sanaa",
+          "correctAnswer": "sanaa"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "math",
+      "questions": [
+        {
+          "question": "2+2",
+          "answer1": "1",
+          "answer2": "2",
+          "answer3": "3",
+          "answer4": "4",
+          "correctAnswer": "4"
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "login": [
+    {
+      "role": "students",
+      "userId": 1,
+      "id": 1
+    }
+  ]
+}
